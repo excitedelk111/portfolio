@@ -73,3 +73,9 @@ img {
 h5:hover {
   cursor: pointer;
 }
+
+@media (max-width: 550px) {
+  img {
+    width: 90% !important;
+  }
+}
